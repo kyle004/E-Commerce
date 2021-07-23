@@ -21,7 +21,7 @@
   Clone github repo, install dependencies, create your Schemas on MySQL, seed your data with npm run seed, then run your server with node server.js
 
   ## Usage
-  Run the application with node server.js then open browser to localhost:3000/api
+  Run the application with node server.js then open browser or other app such as Postman to localhost:3000/api
 
   ## License
   MIT
@@ -31,7 +31,8 @@
   Nope
 
   ## Test
-  Utilized POSTMAN to run tests for creating and updating all data
+  Utilized POSTMAN to run tests for creating and updating all data ![Postman](./Assets/Postman2.png)
+
 
   ## Questions
   Email Me: codingky@gmail.com
